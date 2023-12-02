@@ -14,6 +14,7 @@ namespace ExamWork
         {
             SmartLight smartLight = new SmartLight();
             SmartThermostat smartThermostat = new SmartThermostat();
+            //hjhbbuub
         }
     }
 }
