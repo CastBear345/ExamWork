@@ -9,7 +9,7 @@ public class SmartDevice
     public virtual void TurnOff() { }
 }
 
-// Класс для лампочек
+// Класс для лампочек ghbhf
 public class SmartLight : SmartDevice
 {
     public int Brightness { get; set; }
